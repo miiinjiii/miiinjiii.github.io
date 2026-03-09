@@ -82,3 +82,5 @@ http://localhost:4000
 ```
 
 Your Jekyll website should now be running locally.
+
+Back to [Home](/)
